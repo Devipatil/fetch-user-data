@@ -47,4 +47,3 @@ fetch-user-data/
 3. Open `index.html` in the browser.
 4. Click "Reload Data" to fetch user info anytime.
 
----
